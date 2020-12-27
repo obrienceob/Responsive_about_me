@@ -1,0 +1,11 @@
+.hero-image {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/d/d6/Green_mountains_icon.png"); /* The image used */
+    background-color: white; /* Used if the image is unavailable */
+    height: 500px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+  }
+
+
+  
