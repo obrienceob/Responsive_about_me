@@ -19,6 +19,10 @@
 
 
 @media (max-width: 576px) { 
+  .container {
+    margin-top: 0px;
+    margin-left: 0px; 
+  }
   .col-xs-9 {
     width: fit-content;
     }
@@ -50,7 +54,7 @@
   }
 
   .col-sm-6 {
-    width: 350px;
+    width: fit-content;
   }
 
   .col-sm-12 {
